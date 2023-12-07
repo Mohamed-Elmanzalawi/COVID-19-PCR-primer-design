@@ -4,7 +4,7 @@ Welcome to our Bioinformatics project dedicated to designing PCR primer diagnost
 
 ## Project Overview 🚀
 
-This venture marks my first journey into the realm of Bioinformatics, and I couldn't be more thrilled to share it with you. Our primary objective was to craft a versatile script capable of generating primers for any disease, provided we have the relevant sequences. However, this time around, our focus was on the ever-evolving landscape of COVID-19, with a special emphasis on its variants within the African context.
+This venture marks my first journey into the realm of Bioinformatics, and I couldn't be more thrilled to share it with you. Our primary objective was to craft a versatile script capable of generating primers for any disease, provided we have the relevant sequences. However, this time around, our focus was on the ever-evolving landscape of COVID-19, with a special emphasis on its variants within Africa.
 
 ## Project Highlights 🌟
 
