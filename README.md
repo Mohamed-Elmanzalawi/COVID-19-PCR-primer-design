@@ -55,7 +55,7 @@ Using only 70 sequences from each variant we believe our produced primer can det
 
 A heartfelt shoutout to my incredible team members whose dedication and hard work made this project possible:
 
-- Ahmed Elghamry
+- Ahmed Elghamry [Linkedin](https://www.linkedin.com/in/ahmed-elghamry-7b22829a/)
 - Nour Bahaa
 - Ahmed Hussein
 - Yasmine Hosny
