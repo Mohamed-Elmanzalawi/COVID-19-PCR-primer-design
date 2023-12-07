@@ -16,13 +16,39 @@ This venture marks my first journey into the realm of Bioinformatics, and I coul
 
 Take a tour through our project, and I hope you find the exploration of PCR primer design both insightful and enjoyable. Your feedback is not just welcome; it's eagerly anticipated! 😃
 
-## Methods
-
 ### Data Collection
 
-Our exploration into Covid-19 Pango lineages commenced with a seamless search in the NCBI virus database. We specifically focused on essential Pango lineages—BA.1, B.1.617.2, and B.1.1.7—representing the Omicron, Delta, and Alpha variants.
+This project addresses the evolving landscape of COVID-19, a zoonotic disease first discovered in Wuhan, China, in December 2019. The World Health Organization (WHO) declared it a pandemic on March 11, 2020. As part of our exploration, we delve into the characteristics of key variants that have shaped the trajectory of the pandemic.
 
-![Covid Variants]([https://github.com/your-username/your-repository/raw/main/images/covid-19-variants.jpg](https://github.com/Mohamed-Elmanzalawi/PCR-primer-Script/blob/main/Pictures/Covid%20Variants.jpeg))
+### Variants
+
+#### Alpha Variant (B.1.1.7)
+The Alpha variant, identified by the lineage B.1.1.7, stands as the inaugural variant of SARS-CoV-2, providing critical insights into the virus's early evolution.
+
+#### Delta Variant (B.1.617.2)
+Characterized by the lineage B.1.617.2, the Delta variant has proven to be more transmissible than its predecessor, the Alpha variant, presenting heightened challenges in containment efforts.
+
+#### Omicron Variant (B.1.1.529)
+The Omicron variant, encompassing lineages such as BA.1, BA.1.1, BA.2, and BA.3 within the lineage B.1.1.529, marks a notable evolution of the virus, introducing new complexities in our ongoing battle against the pandemic.
+
+![](/Pictures/Covid%20Variants.jpeg)
+ PX Media / Adobe Stock
+
+## Pango Lineages Exploration
+
+Our research initiative involves a meticulous exploration of COVID-19 Pango lineages. Leveraging the NCBI virus database, we focus on crucial lineages—BA.1, B.1.617.2, and B.1.1.7—to deepen our understanding of the Omicron, Delta, and Alpha variants. This exploration contributes essential insights to the broader knowledge of the virus, aiding in the development of effective strategies for mitigation and prevention.
+
+### Results
+
+#### Alpa, Delta,and Omicron primers 
+For primer design, we harnessed Primer-BLAST, leveraging the RefSeq RNA database for template identification. Default parameters sufficed for primer range definition due to template lengths (less than 50,000 bp).
+The designed primers, essential to our methodology, are presented below:
+
+
+
+#### Universal primers 
+Using only 70 sequences from each variant we believe our produced primer can detect any Alpha, Beta, or Omicron strain. Upon validation, our primer passed all the PCR primer stats tests and UCSC in-Silico PCR.
+
 
 
 ## Special Thanks 🙌
