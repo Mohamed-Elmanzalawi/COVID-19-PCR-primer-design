@@ -16,6 +16,15 @@ This venture marks my first journey into the realm of Bioinformatics, and I coul
 
 Take a tour through our project, and I hope you find the exploration of PCR primer design both insightful and enjoyable. Your feedback is not just welcome; it's eagerly anticipated! 😃
 
+## Methods
+
+### Data Collection
+
+Our exploration into Covid-19 Pango lineages commenced with a seamless search in the NCBI virus database. We specifically focused on essential Pango lineages—BA.1, B.1.617.2, and B.1.1.7—representing the Omicron, Delta, and Alpha variants.
+
+![Covid Variants]([https://github.com/your-username/your-repository/raw/main/images/covid-19-variants.jpg](https://github.com/Mohamed-Elmanzalawi/PCR-primer-Script/blob/main/Pictures/Covid%20Variants.jpeg))
+
+
 ## Special Thanks 🙌
 
 A heartfelt shoutout to my incredible team members whose dedication and hard work made this project possible:
