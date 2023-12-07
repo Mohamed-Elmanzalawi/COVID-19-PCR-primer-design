@@ -3,7 +3,7 @@
 # Function to display script usage
 display_usage() {
     echo """Usage: $0 [install | help | -f <IDs> -p <path> [-t <table>] [-m <minsize>]]
-Welcome to our script. In this script, you must enter the required IDs
+Welcome to our primer design script. In this script, you must enter the required IDs
 and the location to store the results. We will produce 5 files:
 1) sequence.fasta: Contain the downloaded sequences
 2) ORFs_out.txt: Contain the ORF Finder results.
