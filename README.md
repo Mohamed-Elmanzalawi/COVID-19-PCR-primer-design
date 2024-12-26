@@ -52,6 +52,7 @@ Using only 70 sequences from each variant we believe our produced primer can det
 ![](/Pictures/Universal_Primer.jpeg)
 
 ## Special Thanks 🙌
+We express our sincere gratitude to Prof.Mohamed El Hadidi [Linkedin](https://www.linkedin.com/in/melhadidi/) for his invaluable supervision and guidance throughout the project.
 
 A heartfelt shoutout to my incredible team members whose dedication and hard work made this project possible:
 - Mohamed Elmanzalawi [Linkedin](https://www.linkedin.com/in/mohamed-elmanzalawi/)
